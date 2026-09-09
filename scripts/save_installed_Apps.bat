@@ -9,7 +9,7 @@ cls
 echo.
 echo      _________________________________
 echo.
-echo            Export List of Apps
+echo            Save Installed Apps
 echo      _________________________________
 echo.
 echo.
@@ -38,7 +38,7 @@ echo %DATE%; %TIME%; %COMPUTERNAME%; "Apps"; Completed; >>%LOGFILE%
 
 title ✅ Apps exported
 echo.
-echo ✅ List of installed apps exported to %TARGET_FILE%.
+echo ✅ List of installed apps saved to %TARGET_FILE%.
 echo   For recovery use 'winget import My_Apps.json' to re-install them.
 echo.
 echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
