@@ -1,6 +1,4 @@
-The Backup Scripts
-==================
+🛡️ The Backup Scripts
+======================
 
-**This folder contains .BAT batch scripts to perform the backup. Just execute the appropriate ones (serial or in parallel).**
-
-
+**This folder contains batch scripts to perform each backup task. Just choose the appropriate ones and execute them by double-clicking.**
