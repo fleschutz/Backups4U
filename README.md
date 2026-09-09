@@ -32,7 +32,7 @@
 * **No encryption** is performed to keep it simple and robust. Use an encryption program and a vault to prevent unauthorized access.
 * **A history** of your backups is written automatically to **[Logbook.csv](docs/Logbook.csv)** (a table in .CSV format) by each backup script.
 * **Test** your backups regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
-* **DISCLAIMER:** All informations are given according to my best knowledge, but without guarantee.
+* **Disclaimer:** Information are given according to my best knowledge, but without guarantee.
 
 🤝 Contributing
 ----------------
