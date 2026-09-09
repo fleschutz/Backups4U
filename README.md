@@ -30,7 +30,7 @@
 --------
 * **At first** a full backup is performed (slow for big data), but next time only changes get copied (extremely fast).
 * **No encryption** is performed to keep it simple and robust. Use an encryption program and a vault to prevent unauthorized access.
-* **A history** of your backups is written automatically to **[Logbook.csv](docs/Logbook.csv)** (a table in .CSV format) by each backup script.
+* **A history** of backups performed is written automatically to **[Logbook.csv](docs/Logbook.csv)** (a table in .CSV format) by each backup script.
 * **Test** your backups regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
 * **Disclaimer:** Information are given according to my best knowledge, but without guarantee.
 
