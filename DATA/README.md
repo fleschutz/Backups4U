@@ -1,7 +1,7 @@
-Welcome to Your Data
+🛡️ Your Data Folder
 ====================
 
-This folder will contain or already contains all your data backups.
+This folder will contain or already contains your data backups.
 
 - **Recover your data:** Follow the [checklist](../README.md)
 - **Read the logbook:** See the [logbook](../docs/Logbook.csv)
